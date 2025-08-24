@@ -4,8 +4,7 @@ A modern web application built with Next.js and Convex for AI-powered code revie
 
 ## WorkFlow
 
-https://github.com/user-attachments/assets/7811b743-5a2f-40a0-85de-54e6631e19cc
-
+<img width="1167" height="608" alt="New Issue - Google Chrome 24-08-2025 20_20_52" src="https://github.com/user-attachments/assets/64bca560-477f-4e31-a6cb-299cf6db9992" />
 
 ## Features
 
