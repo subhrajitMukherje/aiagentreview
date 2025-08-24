@@ -32,7 +32,7 @@ A modern web application built with Next.js and Convex for AI-powered code revie
 1. Clone the repository:
 
 ```bash
-git clone [repository-url]
+git clone https://github.com/subhrajitMukherje/aiagentreview.git
 cd aiagentreview
 ```
 
