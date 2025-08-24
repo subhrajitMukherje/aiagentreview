@@ -2,6 +2,11 @@
 
 A modern web application built with Next.js and Convex for AI-powered code review. This project demonstrates the integration of AI capabilities to assist in code review processes, providing automated analysis and suggestions for code improvements.
 
+## WorkFlow
+
+https://github.com/user-attachments/assets/7811b743-5a2f-40a0-85de-54e6631e19cc
+
+
 ## Features
 
 - AI-powered code review and analysis
